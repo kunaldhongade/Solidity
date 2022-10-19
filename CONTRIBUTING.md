@@ -42,4 +42,4 @@ orientation.
 
 ### Our Standards
 
-Examples of behavior that contributes to creatin
+Examples of behavior that contributes to creating
